@@ -1,0 +1,5 @@
+The following files in the 'code' folder:
+slip2strainRate.py - converts slip rate observations to strain rate observations.
+adjustK.py - adjusts strain rate capacity kappa on fault segments.
+adjustPot.py - adjusts force potentials phi at grid points.
+adjustObs.py - adjusts the magnitude of strain rate observations in the model so that they fit strain rate style observations.
