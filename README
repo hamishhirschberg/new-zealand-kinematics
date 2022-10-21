@@ -1,3 +1,8 @@
 This repository contains code and data associated with Hirschberg & Sutherland (in review).
-The code used for the model inversion is from Haines & Sutherland (2018) and the user is referred to their paper for the inversion codes. Codes relating to the pre-processing, parameter adjustment, and post-processing are present in the 'code' folder.
-Data input into the model and data output by the model are present in the 'data' folder.
+
+The code used for the model inversion is from Haines & Sutherland (2018) and the user is referred to their paper for the inversion codes.
+Codes relating to the pre-processing, parameter adjustment, and post-processing are present in the 'code' folder.
+
+Data input into the models and data output by the models are present in the 'data' folder.
+The data for the HS22-Lit model is from Litchfield et al. (2014).
+The data for the HS22-CFM model is from Seebeck et al. (2022).
