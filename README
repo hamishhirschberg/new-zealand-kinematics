@@ -5,4 +5,4 @@ Codes relating to the pre-processing, parameter adjustment, and post-processing 
 
 Data input into the models and data output by the models are present in the 'data' folder.
 The data for the HS22-Lit model is from Litchfield et al. (2014).
-The data for the HS22-CFM model is from Seebeck et al. (2022).
+The data for the HS22-CFM model is from the NZ CFM v1.0 (Seebeck et al., 2022).
