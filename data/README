@@ -1,0 +1,11 @@
+The 'data' folder contains data for two models.
+The HS22-Lit model is based on data from Litchfield et al. (2014).
+The HS22-CFM model is based on data from the NZ CFM v1.0 (Seebeck et al., 2022).
+
+For each model, the following files are present:
+raw_input_when_using_gmsh_long.dat - Raw input format of faults that are included directly in the model.
+raw_input_when_using_gmsh_short.dat - Raw input format of faults that are converted to strain rates before they are included in the model.
+plot_velocity_aposteriori_in_elements.dat - Output velocities relative to Pacific plate. Format is long, lat, vx, vy.
+plot_strain_rate_aposteriori_in_elements.dat - Output strain rates in elements. Format is long, lat, exx, eyy, exy.
+full_slip_rate_out.csv - Input and output slip rates (with uncertainties) for the central segment on each fault. Where a fault name appears
+    twice, this corresponds to the sections of fault before and after a fault intersection which have been evaluated separately.
