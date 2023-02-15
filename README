@@ -1,4 +1,4 @@
-This repository contains code and data associated with Hirschberg & Sutherland (in review).
+This repository contains code and data associated with Hirschberg & Sutherland (2022).
 
 The code used for the model inversion is from Haines & Sutherland (2018) and the user is referred to their paper for the inversion codes.
 Codes relating to the pre-processing, parameter adjustment, and post-processing are present in the 'code' folder.
@@ -6,3 +6,6 @@ Codes relating to the pre-processing, parameter adjustment, and post-processing 
 Data input into the models and data output by the models are present in the 'data' folder.
 The data for the HS22-Lit model is from Litchfield et al. (2014).
 The data for the HS22-CFM model is from the NZ CFM v1.0 (Seebeck et al., 2022).
+
+Hirschberg, H., & Sutherland, R. (2022). A Kinematic Model of Quaternary Fault Slip Rates and Distributed Deformation at the New Zealand Plate Boundary.
+Journal of Geophysical Research: Solid Earth, 127(11), e2022JB024828. doi.org/10.1029/2022JB024828
